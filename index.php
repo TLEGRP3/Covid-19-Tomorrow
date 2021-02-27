@@ -13,7 +13,7 @@
 <p>
 <h2><u>HOPE</u></h2>
 <p>
-<img width ="500px" img src="mathpic.jpg">
+<img width ="500px" img src="Mathpic.jpg">
 <p>
 <video width="400" height="160" controls>
 <source src="vid.mp4" type="video/mp4">
